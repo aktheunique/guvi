@@ -1,3 +1,4 @@
+# Checking a number is positive, negative or zero
 i=int(input())
 if i==0:
 	print("Zero")
